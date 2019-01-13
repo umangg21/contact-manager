@@ -1,0 +1,102 @@
+[
+    {
+        "id": "c1",
+        "firstName": "Amy",
+        "lastName": "Jackson",
+        "email": "amy.jackson@gmail.com",
+        "phone": "896-325-8965",
+        "location": "Campdrive Hill, San Diego",
+        "ageRange": "20-30",
+        "relation": "0"
+    },
+    {
+        "id": "c2",
+        "firstName": "Darpan",
+        "lastName": "Suman",
+        "email": "darpan.suman@gmail.com",
+        "phone": "896-123-8965",
+        "location": "Campdrive Hill, San Diego",
+        "ageRange": "20-30",
+        "relation": "0"
+    },
+    {
+        "id": "c3",
+        "firstName": "Masooma",
+        "lastName": "Dosi",
+        "email": "masooma.dosi@gmail.com",
+        "phone": "989-325-8965",
+        "location": "Campdrive Hill, San Diego",
+        "ageRange": "20-30",
+        "relation": "0"
+    },
+    {
+        "id": "c4",
+        "firstName": "Prachi",
+        "lastName": "Gaur",
+        "email": "prachi.gaur@gmail.com",
+        "phone": "965-325-8965",
+        "location": "Campdrive Hill, San Diego",
+        "ageRange": "20-30",
+        "relation": "0"
+    },
+    {
+        "id": "c5",
+        "firstName": "Sumit",
+        "lastName": "Chadha",
+        "email": "sumit.chadha@gmail.com",
+        "phone": "854-125-8965",
+        "location": "Campdrive Hill, San Diego",
+        "ageRange": "20-30",
+        "relation": "0"
+    },
+    {
+        "id": "c6",
+        "firstName": "Vishnu",
+        "lastName": "Hari",
+        "email": "Vishnu.Hari@gmail.com",
+        "phone": "897-325-8965",
+        "location": "Campdrive Hill, San Diego",
+        "ageRange": "20-30",
+        "relation": "0"
+    },
+    {
+        "id": "c7",
+        "firstName": "Ritisha",
+        "lastName": "Jaiswal",
+        "email": "ritisha.jaiswal@gmail.com",
+        "phone": "897-000-8965",
+        "location": "Campdrive Hill, San Diego",
+        "ageRange": "20-30",
+        "relation": "0"
+    },
+    {
+        "id": "c8",
+        "firstName": "Manu",
+        "lastName": "Sharma",
+        "email": "manu.sharma@gmail.com",
+        "phone": "875-256-8965",
+        "location": "Campdrive Hill, San Diego",
+        "ageRange": "20-30",
+        "relation": "0"
+    },
+    {
+        "id": "c9",
+        "firstName": "Amy",
+        "lastName": "Jackson",
+        "email": "amy.jackson@gmail.com",
+        "phone": "896-325-8965",
+        "location": "Campdrive Hill, San Diego",
+        "ageRange": "20-30",
+        "relation": "0"
+    },
+    {
+        "id": "c10",
+        "firstName": "Amy",
+        "lastName": "Jackson",
+        "email": "amy.jackson@gmail.com",
+        "phone": "896-325-8965",
+        "location": "Campdrive Hill, San Diego",
+        "ageRange": "20-30",
+        "relation": "0"
+    }
+]
